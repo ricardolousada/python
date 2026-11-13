@@ -1,0 +1,8 @@
+make fish
+master css
+master python
+My new todo
+last todo
+Vou fumar
+Ir �s compras
+todo1
